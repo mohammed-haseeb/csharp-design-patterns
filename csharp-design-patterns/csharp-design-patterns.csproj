@@ -5,6 +5,13 @@
     <RootNamespace>csharp_design_patterns</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Creational\" />
+    <Folder Include="Behavioral\" />
+    <Folder Include="Structural\" />
+  </ItemGroup>
 
 </Project>
