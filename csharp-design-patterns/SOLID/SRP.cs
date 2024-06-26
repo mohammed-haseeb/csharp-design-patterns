@@ -69,3 +69,10 @@
 
 
 }
+
+
+/*
+ Notes:
+    - Each class should be related to a single purpose
+    - There can be multiple properties and methods as long as they relate to some single responsibility
+ */
